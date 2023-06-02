@@ -8,6 +8,7 @@ function desvia(btn){
     btn.style.left = geraPosicao(10, 90);
     
     console.log('opa, nao adianta disfarcar eu sei que você esta mentindo kk');
+    alert("Opa, não adianta disfarcar eu sei que você esta mentindo kk");
 }
 
 function geraPosicao(min, max){
